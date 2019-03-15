@@ -15,4 +15,4 @@ jobs:
     - stage: build
       script: script/build
     - stage: testlinks
-      script: html-proofer
+      script: htmlproofer
